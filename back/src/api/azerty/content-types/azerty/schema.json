@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "azerties",
+  "info": {
+    "singularName": "azerty",
+    "pluralName": "azerties",
+    "displayName": "azerty"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "rrrr": {
+      "type": "string"
+    }
+  }
+}

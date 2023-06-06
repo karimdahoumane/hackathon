@@ -1,0 +1,23 @@
+{
+  "kind": "collectionType",
+  "collectionName": "inhiojgs",
+  "info": {
+    "singularName": "inhiojg",
+    "pluralName": "inhiojgs",
+    "displayName": "inhiojg"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "tddd": {
+      "type": "enumeration",
+      "enum": [
+        "fiej",
+        "fref",
+        "ef"
+      ]
+    }
+  }
+}

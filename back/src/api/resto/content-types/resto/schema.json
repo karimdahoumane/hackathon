@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "restos",
+  "info": {
+    "singularName": "resto",
+    "pluralName": "restos",
+    "displayName": "resto"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "refer": {
+      "type": "string"
+    }
+  }
+}
